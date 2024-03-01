@@ -1,1 +1,1 @@
-it is created using git , the first version of project
+it is created using git , the first version of project . story.txt is pushed into public repo from local repo
